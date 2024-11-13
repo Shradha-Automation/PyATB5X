@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="13th Nov' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex1_Python Basics/Lab003_Python_Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab006_Variables_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab007_Variables_Identofoers_Rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/Lab014_Maths_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identified_Variables/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001_Python_HelloWorld.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006_Variables_Types.executor": "Run",
-    "Python.Lab007_Variables_Identofoers_Rules.executor": "Run",
-    "Python.Lab008_Dynamically_Typed.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014_Maths_Function.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/shradha"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006_Variables_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variables_Identofoers_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Maths_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shradha&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identified_Variables" />
@@ -131,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731482563665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="13th Nov' 2024">
+      <option name="closed" value="true" />
+      <created>1731494153264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731494153264</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
