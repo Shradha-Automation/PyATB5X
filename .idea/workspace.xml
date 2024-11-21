@@ -4,32 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="13th Nov' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/test_Lab004_GET request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/API_Automation/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab022_Userinput_Su_of_the_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab023_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab024_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab025_Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab026_Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab027_Escape_Character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab20_Builtin_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab21_Userinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lap028_Escape_Char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex7_API/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex7_API/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="21st Nov' 2024">
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab032_CompareOperator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab031_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,45 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_Lab001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab002.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab003.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab004.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab004_GET request.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab005.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Variables_Types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_Variables_Identofoers_Rules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Maths_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_Userinput_Su_of_the_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023_String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab024_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027_Escape_Character.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab20_Builtin_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab21_Userinput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lap028_Escape_Char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shradha&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_Lab001.py.executor": "Run",
+    "Python tests.Python tests in test_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004_GET request.py.executor": "Run",
+    "Python tests.Python tests in test_Lab005.py.executor": "Run",
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006_Variables_Types.executor": "Run",
+    "Python.Lab007_Variables_Identofoers_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Maths_Function.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab022_Userinput_Su_of_the_number.executor": "Run",
+    "Python.Lab023_String.executor": "Run",
+    "Python.Lab024_Strings.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab027_Escape_Character.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031_division.executor": "Run",
+    "Python.Lab032_CompareOperator.executor": "Run",
+    "Python.Lab20_Builtin_Functions.executor": "Run",
+    "Python.Lab21_Userinput.executor": "Run",
+    "Python.Lap028_Escape_Char.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shradha",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identifier" />
@@ -231,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731502778737</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="21st Nov' 2024">
+      <option name="closed" value="true" />
+      <created>1732181250562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732181250562</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +237,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="13th Nov' 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th Nov' 2024" />
+    <MESSAGE value="21st Nov' 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st Nov' 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
