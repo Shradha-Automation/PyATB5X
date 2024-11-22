@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="21st Nov' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab032_CompareOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab033_NotOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab034_Logical_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab035_Or_or_ And_Gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab036_interview_qstn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab037_divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab038_No_Increment_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab039_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab045_clubtask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab046_maxbetween_2 numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_040_userinput_ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_041_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_042_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_043_Task3(circle_area).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_044_math.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab031_division.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex3_Literals_Variables/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex2_Keywords_Identifier/Lab014_Maths_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identifier/Lab014_Maths_Function(max,min).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029_Operator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +81,7 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
+    "Python.Lab014_Maths_Function(max,min).executor": "Run",
     "Python.Lab014_Maths_Function.executor": "Run",
     "Python.Lab016.executor": "Run",
     "Python.Lab017.executor": "Run",
@@ -79,8 +94,24 @@
     "Python.Lab030.executor": "Run",
     "Python.Lab031_division.executor": "Run",
     "Python.Lab032_CompareOperator.executor": "Run",
+    "Python.Lab033_NotOperator.executor": "Run",
+    "Python.Lab034_Logical_Operator.executor": "Run",
+    "Python.Lab035_Or_or_ And_Gate.executor": "Run",
+    "Python.Lab036_interview_qstn.executor": "Run",
+    "Python.Lab037_divmod.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab038_No_Increment_Operator.executor": "Run",
+    "Python.Lab039_Ternary_Operator.executor": "Run",
+    "Python.Lab045_clubtask.executor": "Run",
+    "Python.Lab046_maxbetween_2 numbers.executor": "Run",
+    "Python.Lab047.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
     "Python.Lab21_Userinput.executor": "Run",
+    "Python.Lab_040_userinput_ternary_operator.executor": "Run",
+    "Python.Lab_041_Task.executor": "Run",
+    "Python.Lab_042_Task2.executor": "Run",
+    "Python.Lab_043_Task3(circle_area).executor": "Run",
+    "Python.Lab_044_math.executor": "Run",
     "Python.Lap028_Escape_Char.executor": "Run",
     "Python.app.executor": "Run",
     "Python.main.executor": "Run",
@@ -92,6 +123,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex4_Operators" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identifier" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identified_Variables" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex1_Python Basics" />
@@ -221,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732181250562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="21st Nov' 2024">
+      <option name="closed" value="true" />
+      <created>1732181806462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732181806462</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
