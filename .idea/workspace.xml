@@ -5,24 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="21st Nov' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab033_NotOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab034_Logical_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab035_Or_or_ And_Gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab036_interview_qstn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab037_divmod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab038_No_Increment_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab039_Ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab045_clubtask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab046_maxbetween_2 numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_040_userinput_ternary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_041_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_042_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_043_Task3(circle_area).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab_044_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab048_Maximum_between_3nos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab049_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab050_LeapYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab_051_ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab_052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex6_Loops/Lab053_ForLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex6_Loops/Lab054_WhileLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex7_Functions/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex7_Functions/Lab061_Builtin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex8_Lambda/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex8_Lambda/Lab066_multiple_arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex8_Lambda/Lab067_Lambda_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex8_Lambda/Lab068_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab069_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex2_Keywords_Identifier/Lab014_Maths_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex2_Keywords_Identifier/Lab014_Maths_Function(max,min).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex4_Operators/Lab029_Operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex4_Operators/Lab045_clubtask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab045_clubtask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex4_Operators/Lab046_maxbetween_2 numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab046_maxbetween_2 numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex4_Operators/Lab047.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex7_API/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex5_Programs/Lab046_GradeCalc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,8 +104,19 @@
     "Python.Lab038_No_Increment_Operator.executor": "Run",
     "Python.Lab039_Ternary_Operator.executor": "Run",
     "Python.Lab045_clubtask.executor": "Run",
+    "Python.Lab046_GradeCalc.executor": "Run",
     "Python.Lab046_maxbetween_2 numbers.executor": "Run",
     "Python.Lab047.executor": "Run",
+    "Python.Lab048_Maximum_between_3nos.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054_WhileLoop.executor": "Debug",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061_Builtin.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066_multiple_arg.executor": "Run",
+    "Python.Lab067_Lambda_Program.executor": "Run",
+    "Python.Lab068_lambda.executor": "Run",
+    "Python.Lab069_List.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
     "Python.Lab21_Userinput.executor": "Run",
     "Python.Lab_040_userinput_ternary_operator.executor": "Run",
@@ -112,6 +124,8 @@
     "Python.Lab_042_Task2.executor": "Run",
     "Python.Lab_043_Task3(circle_area).executor": "Run",
     "Python.Lab_044_math.executor": "Run",
+    "Python.Lab_051_ForLoop.executor": "Run",
+    "Python.Lab_052.executor": "Debug",
     "Python.Lap028_Escape_Char.executor": "Run",
     "Python.app.executor": "Run",
     "Python.main.executor": "Run",
@@ -123,13 +137,58 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex5_Programs" />
+      <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex6_Loops" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex4_Operators" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identifier" />
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identified_Variables" />
-      <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex1_Python Basics" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Lab054_WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5X" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex6_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex6_Loops/Lab054_WhileLoop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_052" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5X" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex5_Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex5_Programs/Lab_052.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB5X" />
       <option name="ENV_FILES" value="" />
@@ -169,6 +228,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_052" />
+        <item itemvalue="Python.Lab054_WhileLoop" />
         <item itemvalue="Python tests.Python tests in test_Lab001.py" />
       </list>
     </recent_temporary>
@@ -176,7 +237,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-abccbe9d933a-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.428" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -261,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732181806462</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21st Nov' 2024">
+      <option name="closed" value="true" />
+      <created>1732261082224</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732261082224</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +361,21 @@
           <url>file://$PROJECT_DIR$/Nov/API_Automation/test_Lab004_GET request.py</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex5_Programs/Lab_051_ForLoop.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex5_Programs/Lab_051_ForLoop.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex5_Programs/Lab_052.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
