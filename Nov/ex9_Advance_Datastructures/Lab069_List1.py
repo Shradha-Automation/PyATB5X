@@ -1,4 +1,5 @@
 # List - Collection of items
+# Mutable
 
 my_List = [1, 2, 3]
 print (my_List)
