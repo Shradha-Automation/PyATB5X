@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="17th Dec' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab071_List3_Pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab072_Tuple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab073_Tuple2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab074_Tuple3.py" afterDir="false" />
+    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="19th Dec' 2024">
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab075_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab076_Set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab077_Set3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab078_Set4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab069_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab069_List1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab070_List2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab070_List2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab074_Tuple3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab074_Tuple3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,83 +51,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_Lab001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab002.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab003.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab004.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab004_GET request.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Lab005.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Variables_Types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_Variables_Identofoers_Rules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Maths_Function(max,min).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014_Maths_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_Userinput_Su_of_the_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023_String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab024_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027_Escape_Character.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_division.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_CompareOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_NotOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_Logical_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab035_Or_or_ And_Gate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_interview_qstn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab037_divmod.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_No_Increment_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045_clubtask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab046_GradeCalc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab046_maxbetween_2 numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab048_Maximum_between_3nos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab054_WhileLoop.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab061_Builtin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab066_multiple_arg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab067_Lambda_Program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab068_lambda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab069_List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab070_List2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab071_List3_Pop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab072_Tuple1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab073_Tuple2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab074_Tuple3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab20_Builtin_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab21_Userinput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_040_userinput_ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_041_Task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_042_Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_043_Task3(circle_area).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_044_math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_051_ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_052.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lap028_Escape_Char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shradha&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_Lab001.py.executor": "Run",
+    "Python tests.Python tests in test_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004_GET request.py.executor": "Run",
+    "Python tests.Python tests in test_Lab005.py.executor": "Run",
+    "Python.Lab001_Python_HelloWorld.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006_Variables_Types.executor": "Run",
+    "Python.Lab007_Variables_Identofoers_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_Typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Maths_Function(max,min).executor": "Run",
+    "Python.Lab014_Maths_Function.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab022_Userinput_Su_of_the_number.executor": "Run",
+    "Python.Lab023_String.executor": "Run",
+    "Python.Lab024_Strings.executor": "Run",
+    "Python.Lab025_Strings.executor": "Run",
+    "Python.Lab027_Escape_Character.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031_division.executor": "Run",
+    "Python.Lab032_CompareOperator.executor": "Run",
+    "Python.Lab033_NotOperator.executor": "Run",
+    "Python.Lab034_Logical_Operator.executor": "Run",
+    "Python.Lab035_Or_or_ And_Gate.executor": "Run",
+    "Python.Lab036_interview_qstn.executor": "Run",
+    "Python.Lab037_divmod.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab038_No_Increment_Operator.executor": "Run",
+    "Python.Lab039_Ternary_Operator.executor": "Run",
+    "Python.Lab045_clubtask.executor": "Run",
+    "Python.Lab046_GradeCalc.executor": "Run",
+    "Python.Lab046_maxbetween_2 numbers.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048_Maximum_between_3nos.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054_WhileLoop.executor": "Debug",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061_Builtin.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066_multiple_arg.executor": "Run",
+    "Python.Lab067_Lambda_Program.executor": "Run",
+    "Python.Lab068_lambda.executor": "Run",
+    "Python.Lab069_List.executor": "Run",
+    "Python.Lab069_List1.executor": "Run",
+    "Python.Lab070_List2.executor": "Run",
+    "Python.Lab071_List3_Pop.executor": "Run",
+    "Python.Lab072_Tuple1.executor": "Run",
+    "Python.Lab073_Tuple2.executor": "Run",
+    "Python.Lab074_Tuple3.executor": "Run",
+    "Python.Lab075_Set.executor": "Run",
+    "Python.Lab076_Set2.executor": "Run",
+    "Python.Lab076_Tuple5.executor": "Run",
+    "Python.Lab077_Set3.executor": "Run",
+    "Python.Lab078_Set4.executor": "Run",
+    "Python.Lab20_Builtin_Functions.executor": "Run",
+    "Python.Lab21_Userinput.executor": "Run",
+    "Python.Lab_040_userinput_ternary_operator.executor": "Run",
+    "Python.Lab_041_Task.executor": "Run",
+    "Python.Lab_042_Task2.executor": "Run",
+    "Python.Lab_043_Task3(circle_area).executor": "Run",
+    "Python.Lab_044_math.executor": "Run",
+    "Python.Lab_051_ForLoop.executor": "Run",
+    "Python.Lab_052.executor": "Debug",
+    "Python.Lap028_Escape_Char.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shradha",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex5_Programs" />
@@ -137,7 +143,7 @@
       <recent name="C:\Users\shradha\workspace_python\RobotAPIAutomation\PyATB5X\Nov\ex2_Keywords_Identified_Variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="Lab054_WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5X" />
       <option name="ENV_FILES" value="" />
@@ -331,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734417723324</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="19th Dec' 2024">
+      <option name="closed" value="true" />
+      <created>1734613379665</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1734613379665</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +363,8 @@
     <MESSAGE value="13th Nov' 2024" />
     <MESSAGE value="21st Nov' 2024" />
     <MESSAGE value="17th Dec' 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th Dec' 2024" />
+    <MESSAGE value="19th Dec' 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th Dec' 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
