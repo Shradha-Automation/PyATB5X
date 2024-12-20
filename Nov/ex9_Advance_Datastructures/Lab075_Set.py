@@ -1,4 +1,4 @@
-# SET
+# SET: Modifiable(add,remove,update,delete) but not Mutable
 # Collection of unique elements (Remove duplicates)
 # {}
 

@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="19th Dec' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab075_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab076_Set2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab077_Set3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab078_Set4.py" afterDir="false" />
+    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="20th Dec' 2024">
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab079_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab080_Dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab081_Dict3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab082_Dict4(Program).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab083_Dict5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab084_Dict6_Interview Qstns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab085_Dict7_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab086_Dict8_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab087_Dict9_DuplicateKeys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab088_Dict10_IQ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab069_List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab069_List1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab074_Tuple3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab074_Tuple3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab075_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex9_Advance_Datastructures/Lab075_Set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +120,18 @@
     "Python.Lab076_Set2.executor": "Run",
     "Python.Lab076_Tuple5.executor": "Run",
     "Python.Lab077_Set3.executor": "Run",
+    "Python.Lab078_Set4(program).executor": "Run",
     "Python.Lab078_Set4.executor": "Run",
+    "Python.Lab079_Dictionary.executor": "Run",
+    "Python.Lab080_Dict2.executor": "Run",
+    "Python.Lab081_Dict3.executor": "Run",
+    "Python.Lab082_Dict4(Program).executor": "Run",
+    "Python.Lab083_Dict5.executor": "Run",
+    "Python.Lab084_Dict6_Interview Qstns.executor": "Run",
+    "Python.Lab085_Dict7_IQ.executor": "Run",
+    "Python.Lab086_Dict8_IQ.executor": "Run",
+    "Python.Lab087_Dict9_DuplicateKeys.executor": "Run",
+    "Python.Lab088_Dict10_IQ.executor": "Run",
     "Python.Lab20_Builtin_Functions.executor": "Run",
     "Python.Lab21_Userinput.executor": "Run",
     "Python.Lab_040_userinput_ternary_operator.executor": "Run",
@@ -345,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734613379665</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20th Dec' 2024">
+      <option name="closed" value="true" />
+      <created>1734693118630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1734693118630</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +388,8 @@
     <MESSAGE value="21st Nov' 2024" />
     <MESSAGE value="17th Dec' 2024" />
     <MESSAGE value="19th Dec' 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th Dec' 2024" />
+    <MESSAGE value="20th Dec' 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th Dec' 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
