@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="20th Dec' 2024">
-      <change afterPath="$PROJECT_DIR$/Nov/ex10_Oops/Lab089_Oops_Concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex10_Oops/Lab090_TakeaInput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex10_Oops/Lab091_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex10_Oops/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -372,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734701872546</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20th Dec' 2024">
+      <option name="closed" value="true" />
+      <created>1735044857630</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735044857630</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
