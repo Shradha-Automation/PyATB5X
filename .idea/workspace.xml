@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="20th Dec' 2024">
-      <change afterPath="$PROJECT_DIR$/Jan/test_Sel_allure_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/test_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/test_webtables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB5X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB5X.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6facbee3-cc7f-4158-8968-e0e9133f96d9" name="Changes" comment="13th April' 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +34,38 @@
     &quot;accountId&quot;: &quot;8515d576-e0ac-458f-bfb3-0543729188e0&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Python/008.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/009.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/010.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/011.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/012.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/013.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/014.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/015.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/016.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/017.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/018.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/019.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/020.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/021.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/022.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/023.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/024.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/025.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/026.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/027.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/028.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/029.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/030.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/031.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/032.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/033.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/034.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/035.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/Python/036.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/newpy.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -84,6 +110,44 @@
     "Python.020.executor": "Run",
     "Python.021.executor": "Run",
     "Python.022.executor": "Run",
+    "Python.023.executor": "Run",
+    "Python.024.executor": "Run",
+    "Python.025.executor": "Run",
+    "Python.026.executor": "Run",
+    "Python.027.executor": "Run",
+    "Python.028.executor": "Run",
+    "Python.029.executor": "Run",
+    "Python.030.executor": "Run",
+    "Python.031.executor": "Run",
+    "Python.032.executor": "Run",
+    "Python.033.executor": "Run",
+    "Python.034.executor": "Run",
+    "Python.035.executor": "Run",
+    "Python.036.executor": "Run",
+    "Python.037.executor": "Run",
+    "Python.038.executor": "Run",
+    "Python.039.executor": "Run",
+    "Python.040.executor": "Run",
+    "Python.041.executor": "Run",
+    "Python.042.executor": "Run",
+    "Python.043.executor": "Run",
+    "Python.044.executor": "Run",
+    "Python.045.executor": "Run",
+    "Python.046.executor": "Run",
+    "Python.047.executor": "Run",
+    "Python.048.executor": "Run",
+    "Python.049.executor": "Run",
+    "Python.050.executor": "Run",
+    "Python.051.executor": "Run",
+    "Python.052.executor": "Run",
+    "Python.053.executor": "Run",
+    "Python.054.executor": "Run",
+    "Python.055.executor": "Run",
+    "Python.056.executor": "Run",
+    "Python.057.executor": "Run",
+    "Python.058.executor": "Run",
+    "Python.059.executor": "Run",
+    "Python.060.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
@@ -431,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735044857630</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="13th April' 2025">
+      <option name="closed" value="true" />
+      <created>1744542090369</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744542090369</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +523,8 @@
     <MESSAGE value="17th Dec' 2024" />
     <MESSAGE value="19th Dec' 2024" />
     <MESSAGE value="20th Dec' 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th Dec' 2024" />
+    <MESSAGE value="13th April' 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="13th April' 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
